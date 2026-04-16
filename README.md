@@ -11,3 +11,4 @@ Now, as for my mistakes, there are afew:
   3) thats it for now
 my key inspo for this project was the corne layout for split keyboards and the typeractive corn pcb aluminum case for the pcb design
 ![Pcb Image](pcb.png) 
+also i just added the STEP file 
