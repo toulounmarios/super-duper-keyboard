@@ -30,8 +30,8 @@ my key inspo for this project was the corne layout for split keyboards and the t
 
 
 
-here is the step file of the pcb if you decide to make a custom case for it: [keyboard 1](super-duper-keyboard/3d_models/keyboard_1.step
-)
+here is the step file of the pcb if you decide to make a custom case for it: [keyboard 1](3d_models/keyboard_1.step)
+
 
 
 here is the BOM :
