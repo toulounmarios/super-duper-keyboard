@@ -27,6 +27,7 @@ Now, as for my mistakes, there are afew:
 
 
 my key inspo for this project was the corne layout for split keyboards and the typeractive corn pcb aluminum case for the pcb design
+![inspo_pic](all_pics/hmmmmm_1206x.webp)
 
 
 
