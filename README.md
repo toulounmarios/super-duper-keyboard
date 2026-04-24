@@ -18,7 +18,7 @@ here is the step file of the pcb if you decide to make a custom case for it:
 
 here is the BOM :
 
-
+<pre>
 Name	                                                        Purpose	                             Qty	Total (USD)	  Link	  Distributor	
 
 
@@ -41,3 +41,4 @@ kailh choc v2 deep sea silent mini whale brown	          they are the keyswitche
 
 
 the pcb	                                                         its the pcb	                      5	   $15.80	      Link	  jlcpcb	
+</pre>
