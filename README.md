@@ -31,6 +31,7 @@ my key inspo for this project was the corne layout for split keyboards and the t
 
 
 here is the step file of the pcb if you decide to make a custom case for it: [pcb 3d model ](3d_models/keyboard_1.step)
+![3d_model](all_pics/3d_model.png)
 
 
 here are the schematics: [schematic](KiCAD_files/keyboard_1.kicad_sch)
