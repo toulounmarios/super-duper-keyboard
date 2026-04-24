@@ -17,17 +17,27 @@ here is the step file of the pcb if you decide to make a custom case for it:
 
 
 here is the BOM :
+
+
 Name	                                                        Purpose	                             Qty	Total (USD)	  Link	  Distributor	
+
+
 Seeed Studio XIAO nRF52840 (XIAO BLE)	             they are the microcontrollers	                  2	    $19.80	     [Link](https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html)  seeed studio	
+
 
 0805 806k resistors	                                       for part of vbat	                        100	    $1.68	      Link	  aliexpress	
 
+
 0805 2M resistors	                                        for the bt pin	                        100	    $2.18	      Link	  aliexpress	
+
 
 1N4148W T4 SOD-123 diodes	                       needed for the keyboard matrix	                100	    $1.84	      Link	  aliexpress	
 
+
 kailh choc v2 hotswap sockets	                the are the hotswap sockets for my keyswitches	     50	    $5.81	      Link	  aliexpress	
 
+
 kailh choc v2 deep sea silent mini whale brown	          they are the keyswitches	                 50	   $12.97	      Link	  aliexpress	
+
 
 the pcb	                                                         its the pcb	                      5	   $15.80	      Link	  jlcpcb	
