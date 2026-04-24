@@ -1,4 +1,6 @@
-helloooooooooooooooooooooo, if you are reading this then you are at the readme section of this repo, so pretty am i right? i know, i know. 
+helloooooooooooooooooooooo, if you are reading this then you are at the readme section of this repo, so pretty am i right? i know, i know.
+im building this project so that i can FINALLY step away from using an old 25 euro gaming keyboard with blue switches ( VERY LOUD ) and make
+a compact and aesthetic split keyboad that looks and sounds nice, while also not waking up my entire family at 3am while playing ultrakill or Apex Legends ( both goated btw)
 anyways, for anyone who is suprisingly interested in my project here are the key components of the build as well as my key take aways from my first project and some inspo for this.
     first of all, the microcontrollers im using are a pair of seeed xiao nRF52840s, the normal ones will do just fine.
     the pcb was designed on kicad with the libraries from the hackclub stasis event starter project (the split keyboard one) and is manufactured via jlcpcb
