@@ -14,7 +14,7 @@ my key inspo for this project was the corne layout for split keyboards and the t
 here is the step file of the pcb if you decide to make a custom case for it:
 here is the BOM :
 Name	                                                        Purpose	                             Qty	Total (USD)	  Link	  Distributor	
-Seeed Studio XIAO nRF52840 (XIAO BLE)	             they are the microcontrollers	                  2	    $19.80	      Link	  seeed studio	
+Seeed Studio XIAO nRF52840 (XIAO BLE)	             they are the microcontrollers	                  2	    $19.80	     [Link](https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html)  seeed studio	
 
 0805 806k resistors	                                       for part of vbat	                        100	    $1.68	      Link	  aliexpress	
 
