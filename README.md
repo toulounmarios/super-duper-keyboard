@@ -5,11 +5,11 @@ a compact and aesthetic split keyboad that looks and sounds nice, while also not
 anyways, for anyone who is suprisingly interested in my project here are the key components of the build as well as my key take aways from my first project and some inspo for this.
 
 
- &emsp; first of all, the microcontrollers im using are a pair of seeed xiao nRF52840s, the normal ones will do just fine.
-   &emsp; the pcb was designed on kicad with the libraries from the hackclub stasis event starter project (the split keyboard one) and is manufactured via jlcpcb
-   &emsp; my switches are the kailh choc v2 deep sea silent whale brown switches, due to their tactile yet silent profile.
-    &emsp;for the batteries i havent decided on a li-po battery size for now
-    &emsp;both the case and keycaps ill design after i get the pcb in hand for refernce and ideas 
+  first of all, the microcontrollers im using are a pair of seeed xiao nRF52840s, the normal ones will do just fine.
+    the pcb was designed on kicad with the libraries from the hackclub stasis event starter project (the split keyboard one) and is manufactured via jlcpcb
+   my switches are the kailh choc v2 deep sea silent whale brown switches, due to their tactile yet silent profile.
+   for the batteries i havent decided on a li-po battery size for now
+  both the case and keycaps ill design after i get the pcb in hand for refernce and ideas 
 
 
 Now, as for my mistakes, there are afew:
