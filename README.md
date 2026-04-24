@@ -33,7 +33,9 @@ my key inspo for this project was the corne layout for split keyboards and the t
 here is the step file of the pcb if you decide to make a custom case for it: [keyboard 1](3d_models/keyboard_1.step)
 
 
-here are the schematics: [keyboard 1](KiCAD_files/keyboard_1.kicad_sch)
+here are the schematics: [schematic](KiCAD_files/keyboard_1.kicad_sch)
+
+here is the pcb design for you to put it into jlcpcb: [pcb]
 here is the BOM :
 
 <pre>
