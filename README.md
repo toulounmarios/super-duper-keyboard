@@ -59,3 +59,9 @@ kailh choc v2 deep sea silent mini whale brown	          they are the keyswitche
 
 the pcb	                                                         its the pcb	                      5	   $15.80	          (jlcpcb wont let me share my cart so youll        jlcpcb
                                                                                                                                  have to do it yourself via their site )	                                                                                                                                              
+
+
+important notes for ordering and assembly: 
+
+&emsp;1) the resistors for some reason when pressing the link have a different option selected and you'll have to change it yourself in reference to the BOM
+&emsp;2) jlcpcb doesnt let you share a link with your cart, so you'll have to go into the jlcpcb site and import the pcb file and then select the options you want, as well as the color of the pcb.
