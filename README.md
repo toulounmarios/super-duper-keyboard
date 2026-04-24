@@ -9,8 +9,10 @@ anyways, for anyone who is suprisingly interested in my project here are the key
     for the batteries i havent decided on a li-po battery size for now
     both the case and keycaps ill design after i get the pcb in hand for refernce and ideas 
 Now, as for my mistakes, there are afew:
-  1) its best to split the work into chunks and finish them consistently. you dont have to do evrything immidiatly, but try to do related tasks back to back to avoid forgetting where you are at in the build process
-  2) try to simply your models in the pcb editor as much as possible. this is because services like jlcpcb change the shipping and manufacturing costs drastically depending on the size of the pcb, but also stuff like the number of layers on your pcb or the pating and stuff
+  1) its best to split the work into chunks and finish them consistently. you dont have to do evrything immidiatly, 
+    but try to do related tasks back to back to avoid forgetting where you are at in the build process
+  2) try to simply your models in the pcb editor as much as possible. this is because services like jlcpcb change the shipping 
+    and manufacturing costs drastically depending on the size of the pcb, but also stuff like the number of layers on your pcb or the pating and stuff
   3) thats it for now
 my key inspo for this project was the corne layout for split keyboards and the typeractive corn pcb aluminum case for the pcb design
 
