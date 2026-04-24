@@ -35,9 +35,12 @@ here is the step file of the pcb if you decide to make a custom case for it: [pc
 
 
 here are the schematics: [schematic](KiCAD_files/keyboard_1.kicad_sch)
+![schematic](all_pics/schematic.png)
 
 
 here is the pcb design for you to put it into jlcpcb: [pcb](KiCAD_files/keyboard_1.kicad_pcb)
+![pcb](all_pics/pcb.png)
+
 
 
 here is the BOM :
