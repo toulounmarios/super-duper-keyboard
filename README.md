@@ -19,7 +19,7 @@ here is the step file of the pcb if you decide to make a custom case for it:
 here is the BOM :
 
 <pre>
-Name	                                                        Purpose	                             Qty	Total (USD)	       Link	         Distributor	
+Name	                                                        Purpose	                             Qty	Total (USD)	       Link	    Distributor	
 
 
 Seeed Studio XIAO nRF52840 (XIAO BLE)	             they are the microcontrollers	                  2	    $19.80	          <a href="https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html">link</a>     seeed studio	
