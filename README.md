@@ -1,4 +1,4 @@
-<pre> 
+
 helloooooooooooooooooooooo, if you are reading this then you are at the readme section of this repo, so pretty am i right? i know, i know.
 im building this project so that i can FINALLY step away from using an old 25 euro gaming keyboard with blue switches ( VERY LOUD ) and make
 a compact and aesthetic split keyboad that looks and sounds nice, while also not waking up my entire family at 3am while playing ultrakill or Apex Legends ( both goated btw).
@@ -22,7 +22,7 @@ here is the step file of the pcb if you decide to make a custom case for it:
 
 
 here is the BOM :
-</pre>
+
 <pre>
 Name	                                                        Purpose	                             Qty	Total (USD)	       Link	    Distributor	
 
