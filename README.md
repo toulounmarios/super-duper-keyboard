@@ -10,7 +10,7 @@ Now, as for my mistakes, there are afew:
   2) try to simply your models in the pcb editor as much as possible. this is because services like jlcpcb change the shipping and manufacturing costs drastically depending on the size of the pcb, but also stuff like the number of layers on your pcb or the pating and stuff
   3) thats it for now
 my key inspo for this project was the corne layout for split keyboards and the typeractive corn pcb aluminum case for the pcb design
-![Pcb Image](pcb.png) 
+
 
 
 here is the step file of the pcb if you decide to make a custom case for it:
