@@ -40,5 +40,5 @@ kailh choc v2 hotswap sockets	                the are the hotswap sockets for my
 kailh choc v2 deep sea silent mini whale brown	          they are the keyswitches	                 50	   $12.97	          <a href="https://www.aliexpress.com/item/1005008382793794.html?spm=a2g0o.cart.0.0.695838daIfg5m9&mp=1&pdp_npi=6%40dis%21EUR%21EUR%2032.40%21EUR%2010.99%21%21EUR%2010.99%21%21%21%40211b629217762869039837251e1abb%2112000044795077989%21ct%21GR%216010249690%21%211%210%21">link</a>  aliexpress	
 
 
-the pcb	                                                         its the pcb	                      5	   $15.80	          (jlcpcb wont let me share my cart so youll have to do it yourself via their site )	  jlcpcb	
-</pre>
+the pcb	                                                         its the pcb	                      5	   $15.80	          (jlcpcb wont let me share my cart so youll        jlcpcb
+                                                                                                                                 have to do it yourself via their site )	                                                                                                                                              
