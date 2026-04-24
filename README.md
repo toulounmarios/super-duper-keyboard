@@ -22,7 +22,7 @@ here is the BOM :
 Name	                                                        Purpose	                             Qty	Total (USD)	                     Link	                 Distributor	
 
 
-Seeed Studio XIAO nRF52840 (XIAO BLE)	             they are the microcontrollers	                  2	    $19.80	          <a href="URL_HERE">link</a>     seeed studio	
+Seeed Studio XIAO nRF52840 (XIAO BLE)	             they are the microcontrollers	                  2	    $19.80	          <a href="https://www.aliexpress.com/item/1005005184230104.html?spm=a2g0o.productlist.main.1.6249IJXxIJXxPH&algo_pvid=938eadd9-71ba-4352-88da-76219ebfed72&algo_exp_id=938eadd9-71ba-4352-88da-76219ebfed72-0&pdp_ext_f=%7B%22order%22%3A%2216%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%212.25%210.86%21%21%2117.66%216.76%21%402103894417762777976955069ec2d7%2112000032017018112%21sea%21GR%216010249690%21ABX%211%210%21n_tag%3A-29910%3Bd%3A8b9bcfc7%3Bm03_new_user%3A-29895%3BpisId%3A5000000203610259&curPageLogUid=4cgpcI0GnRlD&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005184230104%7C_p_origin_prod%3A">link</a>     seeed studio	
 
 
 0805 806k resistors	                                       for part of vbat	                        100	    $1.68	          <a href="URL_HERE">link</a>    aliexpress	
