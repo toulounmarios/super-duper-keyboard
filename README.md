@@ -70,8 +70,11 @@ kailh choc v2 deep sea silent mini whale brown	          they are the keyswitche
 
 the pcb	                                                         its the pcb	                      5	   $15.80	          (jlcpcb wont let me share my cart so youll        jlcpcb
                                                                                                                                  have to do it yourself via their site )	                                                                                                                                              
-3.7v li-po 501350 batteries                        they are the batteries for the keyboard          2    $11.08           <a href="https://www.aliexpress.com/item/1005011541459046.html?spm=a2g0o.productlist.main.11.4ed12433TM4x7g&algo_pvid=8316d1d1-ff45-4c59-8bb0-ead331b8cc5e&algo_exp_id=8316d1d1-ff45-4c59-8bb0-ead331b8cc5e-10&pdp_ext_f=%7B"order"%3A"6"%2C"eval"%3A"1"%2C"fromPage"%3A"search"%7D&pdp_npi=6%40dis%21EUR%219.45%219.45%21%21%2173.72%2173.71%21%40211b80c217770748274287120e82a1%2112000055867197802%21sea%21GR%216010249690%21ABX%211%210%21n_tag%3A-29910%3Bd%3A8b9bcfc7%3Bm03_new_user%3A-29895&curPageLogUid=aRGigff6t9rL&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005011541459046%7C_p_origin_prod%3A">link</a>   aliexpress 
-important notes for ordering and assembly: 
+
+  3.7v li-po 501350 batteries                        they are the batteries for the keyboard          2    $11.08           <a href="https://www.aliexpress.com/item/1005011541459046.html?spm=a2g0o.productlist.main.11.4ed12433TM4x7g&algo_pvid=8316d1d1-ff45-4c59-8bb0-ead331b8cc5e&algo_exp_id=8316d1d1-ff45-4c59-8bb0-ead331b8cc5e-10&pdp_ext_f=%7B"order"%3A"6"%2C"eval"%3A"1"%2C"fromPage"%3A"search"%7D&pdp_npi=6%40dis%21EUR%219.45%219.45%21%21%2173.72%2173.71%21%40211b80c217770748274287120e82a1%2112000055867197802%21sea%21GR%216010249690%21ABX%211%210%21n_tag%3A-29910%3Bd%3A8b9bcfc7%3Bm03_new_user%3A-29895&curPageLogUid=aRGigff6t9rL&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005011541459046%7C_p_origin_prod%3A">link</a>   aliexpress 
+
+  
+  important notes for ordering and assembly: 
 
 &emsp;1) the resistors for some reason when pressing the link have a different option selected and you'll have to change it yourself in reference to the BOM
 &emsp;2) jlcpcb doesnt let you share a link with your cart, so you'll have to go into the jlcpcb site and import the pcb file and then select the options you want, as well as the color of the pcb.
