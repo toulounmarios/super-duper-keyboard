@@ -78,3 +78,5 @@ the pcb	                                                         its the pcb	   
 
 &emsp;1) the resistors for some reason when pressing the link have a different option selected and you'll have to change it yourself in reference to the BOM
 &emsp;2) jlcpcb doesnt let you share a link with your cart, so you'll have to go into the jlcpcb site and import the pcb file and then select the options you want, as well as the color of the pcb.
+&emsp;3) in the BOM, im not including filament as part of the cost to make the case and the keycaps, because the price changes drastically depending on what filament you use and so it would make sense. 
+      as a rough estimate tho, with around 250-300 gr of pla filament ( around 6-10$ ), you should be set 
