@@ -43,6 +43,9 @@ here is the pcb design for you to put it into jlcpcb: [pcb](KiCAD_files/keyboard
 ![pcb](all_pics/pcb.png)
 
 
+here are pics of the bottom and top plates of the case (all files are in the 3D models folder): ![bottom plate](all_pics/casebottomplate.png)
+
+![top plate](all_pics/casetopplate.png)
 
 here is the BOM :
 
