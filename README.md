@@ -30,11 +30,6 @@ my key inspo for this project was the corne layout for split keyboards and the t
 ![inspo_pic](all_pics/hmmmmm_1206x.webp)
 
 
-
-here is the step file of the pcb if you decide to make a custom case for it: [pcb 3d model ](3d_models/keyboard_1.step)
-![3d_model](all_pics/3d_model.png)
-
-
 here are the schematics: [schematic](KiCAD_files/keyboard_1.kicad_sch)
 ![schematic](all_pics/schematic.png)
 
@@ -47,9 +42,9 @@ here are pics of the bottom and top plates of the case (all files are in the 3D 
 
 ![top plate](all_pics/casetopplate.png)
 
-also here are some sweet renders! [render1](all_pics/render1.png)
-[render2](all_pics/render2.png)
-[render3](all_pics/render3.png)
+also here are some sweet renders! ![render1](all_pics/render1.png)
+![render2](all_pics/render2.png)
+![render3](all_pics/render3.png)
 
 
 here is the BOM :
