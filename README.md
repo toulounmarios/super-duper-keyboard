@@ -47,6 +47,11 @@ here are pics of the bottom and top plates of the case (all files are in the 3D 
 
 ![top plate](all_pics/casetopplate.png)
 
+also here are some sweet renders! [render1](all_pics/render1.png)
+[render2](all_pics/render2.png)
+[render3](all_pics/render3.png)
+
+
 here is the BOM :
 
 
