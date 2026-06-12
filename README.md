@@ -35,7 +35,7 @@ here are the schematics: [schematic](KiCAD_files/keyboard_1.kicad_sch)
 
 
 here is the pcb design for you to put it into jlcpcb: [pcb](KiCAD_files/keyboard_1.kicad_pcb)
-![pcb](all_pics/pcb.png)
+![pcb](all_pics/finalpcb.webp)
 
 
 here are pics of the bottom and top plates of the case (all files are in the 3D models folder): ![bottom plate](all_pics/casebottomplate.png)
