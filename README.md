@@ -19,7 +19,7 @@ Now, as for my mistakes, there are afew:
     but try to do related tasks back to back to avoid forgetting where you are at in the build process
  
  
- &emsp; 2) try to simply your models in the pcb editor as much as possible. this is because services like jlcpcb change the shipping 
+ &emsp; 2) try to simplify your models in the pcb editor as much as possible. this is because services like jlcpcb change the shipping 
     and manufacturing costs drastically depending on the size of the pcb, but also stuff like the number of layers on your pcb or the pating and stuff
  
  
